@@ -1,15 +1,18 @@
-#現役東大院生が教える高校数学の考え方
-##はじめに
-### この本について
-　この本では，高校数学の問題に対する考え方，解き方を解説します．高校数学を解説した本はたくさん出版されていると思うかもしれませんが，本書の内容はかなり違います．一般的な参考書では個別の分野・個別の問題に関してその解き方や解説が書かれています．一方，本書では個別の分野に絞らず，すべての数学の問題に通じる根本的な考え方，解き方を解説します．
+#How to Think About High School Mathematics
+*An Advice from a current Tokyo University Graduate Student*
 
-　高校数学について，その根本的な考え方を解説した本というのは私はほとんど見たことがありません．また，学校や塾などでもこれらの部分を解説してくれる先生はあまりいないのではないでしょうか？　少し大げさかもしれませんが，この根本的な考え方というのを自然に身につけている人が数学が得意な人，数学のセンスがある人，と言われている気がします．逆に言えば，考え方を身に付ければ，だれでも「数学のセンスがある人」になれるということです．本書は，この本を読んでくださった方が数学に対する考え方を身に付けられることを目的としています．
+##Preface
+### About This Book
+In this book, I will be covering some of the ways we should think, approach and solve problems high school mathematics. Although there is a ubiquitous number of text pertaining to High School Mathematics, the materials covered in this book are completely different from the others. Often times textbooks and workbooks provide instructions for solving problems within a specific domain and topic, providing specific steps and instructions to solve those types of problems. However, this text will be providing the fundamental framework which can be implemented across all different topics of mathematics.
 
-### この本の作者について
-　経歴を全く知らない作者が書いた本では説得力に欠けてしまうので，少しだけ私の話をさせていただきます．
+As far as I have seen, I have never encountered such texts discussing the fundamental thought processes of how one should approach high school mathematics. And even so, are there any teachers or cram schools that explain these types of approaches - and even expect students to learn and pick up these skills? Although I may be exaggerating slightly, those people who have these fundamental thoughts instilled in their mind, may often be those who are called "math people". Conversely, if one instills these types of fundamental mindset into their repertoire of thoughts, you can therefore attain the status of being a "math person". In the end, my aim is to provide the readers with these techniques and mindsets that they can implement during their studies of mathematics.
 
-- 2006年4月 大阪府立天王寺高校理数科入学
-- 2009年3月 大阪府立天王寺高校理数科卒業
+### About the Author
+Since reading such text and materials from a author that can be just about anyone, here are some of the background about myself - to provide some degree of credibility.
+
+- April, 2006: Entered the Osaka Prefectural Tennoji High School Under the Math and Science Field
+- March, 2009: Graduated from Osaka Prefectural Tennoji High School
+
 - 2009年4月 東京大学理科一類入学
 - 2013年3月 東京大学卒業
 - 2013年4月 東京大学大学院情報理工学系研究科入学
